@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\SignalRExampleAPI\\SignalRExampleAPI\\SignalRExampleAPI.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\.NetCoreAngularSignalR\\SignalRExampleAPI\\SignalRExampleAPI.csproj",
       "projectName": "SignalRExampleAPI",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\SignalRExampleAPI\\SignalRExampleAPI\\SignalRExampleAPI.csproj",
+      "projectPath": "C:\\Users\\hp\\Source\\Repos\\.NetCoreAngularSignalR\\SignalRExampleAPI\\SignalRExampleAPI.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\SignalRExampleAPI\\SignalRExampleAPI\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Source\\Repos\\.NetCoreAngularSignalR\\SignalRExampleAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

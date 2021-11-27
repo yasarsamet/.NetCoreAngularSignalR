@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z7w0GXskLvgrQN4SxMHfzyaYienmDXcdbRJ/Flxmyvpo0RoyonpUnqaLr4JMC0bQTxYTMqqnpLfBkyXeyxOljw==",
+  "dgSpecHash": "kZtVgbTm/u0H8VES3ZWSRf12FV1+iidHJ4YmUBjR38Ux4XPegXKX7kCmNS9y4r11Oa+0+6wdQfGRTmj0CwtWYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\source\\repos\\SignalRExampleAPI\\SignalRExampleAPI\\SignalRExampleAPI.csproj",
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\.NetCoreAngularSignalR\\SignalRExampleAPI\\SignalRExampleAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
