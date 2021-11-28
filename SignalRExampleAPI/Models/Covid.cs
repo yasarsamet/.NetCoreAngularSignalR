@@ -21,4 +21,14 @@ namespace SignalRExampleAPI.Models
         public int Count { get; set; }
         public DateTime CovidDate { get; set; }
     }
+    public class CovidChart
+    {
+        public CovidChart()
+        {
+            Counts = new List<int>();
+        }
+        public string CovidDate { get; set; }
+        public List<int> Counts { get; set; }
+
+    }
 }
